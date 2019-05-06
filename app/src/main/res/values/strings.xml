@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio_Fragmentos</string>
+    <string name="text_previous">Previous</string>
+    <string name="text_next">Next</string>
+</resources>
