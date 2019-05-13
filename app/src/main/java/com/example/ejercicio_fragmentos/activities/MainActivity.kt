@@ -1,7 +1,8 @@
-package com.example.ejercicio_fragmentos
+package com.example.ejercicio_fragmentos.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.ejercicio_fragmentos.R
 
 class MainActivity : AppCompatActivity() {
 
